@@ -1,0 +1,3 @@
+Examen parcial (solución en Github)
+dominio: https://edgar-david.github.io/exp/
+repositorio: https://github.com/Edgar-David/exp.git
